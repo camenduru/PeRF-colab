@@ -10,6 +10,13 @@
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/PeRF-colab/blob/main/PeRF_colab.ipynb) | PeRF_colab (Pro Colab 😭)
 
+## 🦆 Kaggle
+
+| Kaggle | Info
+| --- | --- |
+[![open_in_kaggle_small](https://user-images.githubusercontent.com/54370274/228924833-17316feb-d0fe-4249-90ba-682930ba11e5.svg)](https://kaggle.com/camenduru/PeRF3D) | PeRF3D_kaggle (Free T4)
+
+
 ## Main Repo
 https://github.com/perf-project/PeRF
 
@@ -21,3 +28,4 @@ https://perf-project.github.io/
 
 ## Output
 
+https://github.com/camenduru/PeRF-colab/assets/54370274/ae458ed7-ffb1-4b85-88d8-d0037dcece09
