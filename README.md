@@ -31,3 +31,7 @@ https://perf-project.github.io/
 Before Inpaint
 
 https://github.com/camenduru/PeRF-colab/assets/54370274/ae458ed7-ffb1-4b85-88d8-d0037dcece09
+
+After Inpaint
+
+https://github.com/camenduru/PeRF-colab/assets/54370274/983a57e8-a644-46e4-af60-366693a2dd76
