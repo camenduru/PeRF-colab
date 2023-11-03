@@ -8,7 +8,7 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/PeRF-colab/blob/main/PeRF_colab.ipynb) | PeRF_colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/PeRF-colab/blob/main/PeRF_colab.ipynb) | PeRF_colab (Pro Colab 😭)
 
 ## Main Repo
 https://github.com/perf-project/PeRF
